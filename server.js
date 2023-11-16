@@ -1,6 +1,4 @@
 /** Server startup for Message.ly. */
-
-
 const app = require("./app");
 
 

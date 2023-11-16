@@ -2,6 +2,7 @@
 
 const jwt = require("jsonwebtoken");
 const { SECRET_KEY } = require("../config");
+const { router } = require("../app");
 
 /** Middleware: Authenticate user. */
 
